@@ -18,4 +18,7 @@
     <string name="incall_vibrate_hangup_title">通话结束时振动</string>
     <string name="incall_vibrate_45_title">每分钟振动</string>
     <string name="incall_vibrate_45_summary">呼出通话达到每分钟的 45 秒时振动</string>
+
+    <string name="call_recording_category_title">通话录音</string>
+    <string name="call_recording_format">音频格式</string>
 </resources>
